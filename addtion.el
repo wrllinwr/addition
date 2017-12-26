@@ -1,7 +1,8 @@
 ;; define const
-;; stn: -3000 -500
+;; stn: -3000 -500 -500
 ;; sis: 2500 1100
 ;; htt: 1500
+;; zdx: 1000
 
 ;; calculate all
 ;; (defun get-statistics)
