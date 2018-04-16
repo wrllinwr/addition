@@ -5,6 +5,9 @@
 ;; sis: 2500 1100 100(dad 1500): -200(2018-2-12) +500(20180315)/9500
 ;; htt: 1500
 
+;; jy:200
+;; zdx:2000
+
 ;; calculate all
 ;; (defun get-statistics)
 
