@@ -7,7 +7,6 @@
 9600+200
 ;; htt: 1500
 
-;; jy:200
 ;; zdx:2000
 
 ;; calculate all
