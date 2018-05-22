@@ -7,8 +7,6 @@
 9600+200
 ;; htt: 1500
 
-;; zdx:2000
-
 ;; calculate all
 ;; (defun get-statistics)
 
