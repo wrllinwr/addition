@@ -1,6 +1,7 @@
 ;; stn: 1850
 
 ;; sis: 9800
+;; sis:2200
 
 ;; calculate all
 ;; (defun get-statistics)
